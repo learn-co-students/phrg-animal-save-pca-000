@@ -10,3 +10,5 @@ resources: 2
 type:
   - lab
   - challenge
+
+parent_template: git@github.com:learn-co-curriculum/animal-save.git

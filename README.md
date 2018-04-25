@@ -1,5 +1,3 @@
-
-
 # Animal Save!
 
 Use your knowledge of media queries and absolute positioning to help these
@@ -44,3 +42,4 @@ Write the media queries necessary in the css files for each corresponding animal
 [Mozilla Dev Network - CSS Transform](https://developer.mozilla.org/en-US/docs/Web/CSS/transform)
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/animal-save'>Animal Save</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG Animal Save!</p>
